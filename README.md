@@ -98,3 +98,13 @@ Top 3 cities by sales, rent, customers, and coffee consumers.
 └── /images # (Optional) query results / dashboards
 ```
 
+
+---
+
+## ✨ Author
+👤 **Ariful Islam**  
+*Entry-Level Data & BI Analyst | SQL | Power BI | Excel | Business Insights Enthusiast*  
+
+📌 I love exploring how **data turns into business strategy**.  
+---
+

@@ -91,3 +91,8 @@ Top 3 cities by sales, rent, customers, and coffee consumers.
 ---
 
 ## 📂 Project Structure
+
+/Coffee-Sales-Analysis-SQL
+├── coffee_analysis_queries.sql # SQL queries for all 10 business questions
+├── README.md # Documentation & insights
+└── /images # (Optional) query results / dashboards
